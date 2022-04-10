@@ -67,7 +67,7 @@
 ![4 C](https://user-images.githubusercontent.com/94432967/162613964-5d3d8d92-a575-4759-a13a-3da45b2e9ed4.png)
 - Kita dapat mencari rata - rata dan varian sesuai rumus.
 
-### No 5
+## No 5
 ### A.
 ![5 A](https://user-images.githubusercontent.com/94432967/162614017-6decf130-1d11-4f4c-be73-b018cc840650.png)
 - Dapatkan sekuens angka dari 1 sampai 10 dengan jarak 1
