@@ -54,6 +54,37 @@
 ![3 D](https://user-images.githubusercontent.com/94432967/162613730-03052a95-1a1a-4c63-ba8c-d5d142c1ee00.png)
 - Kita dapat mencari rata - rata dan varian sesuai rumus.
 
+## No 4
+### A.
+![4 A](https://user-images.githubusercontent.com/94432967/162613894-14a4b895-3975-47e4-9e85-961f9ddd95b6.png)
+- Hitung distribusi chi-square menggunakan dchisq.
+
+### B.
+![4 B](https://user-images.githubusercontent.com/94432967/162613936-a1468055-cc29-4e01-b6c6-6fdb128770b1.png)
+- Hitung distribusi chi-square random sebanyak 100 data random dan gambarkan menggunakan hist()
+
+### C.
+![4 C](https://user-images.githubusercontent.com/94432967/162613964-5d3d8d92-a575-4759-a13a-3da45b2e9ed4.png)
+- Kita dapat mencari rata - rata dan varian sesuai rumus.
+
+### No 5
+### A.
+![5 A](https://user-images.githubusercontent.com/94432967/162614017-6decf130-1d11-4f4c-be73-b018cc840650.png)
+- Dapatkan sekuens angka dari 1 sampai 10 dengan jarak 1
+- Hitung distribusi eksponensial dengan menggunakan dexp
+
+### B.
+![5 B1](https://user-images.githubusercontent.com/94432967/162614072-ce804535-fe39-40c8-b3f2-479af3cb1f9a.png)
+![5 B2](https://user-images.githubusercontent.com/94432967/162614074-6ec774b7-79e7-4855-be93-7e257de413f6.png)
+![5 B3](https://user-images.githubusercontent.com/94432967/162614077-8a81bdda-3603-4220-b891-908212a8719d.png)
+![5 B4](https://user-images.githubusercontent.com/94432967/162614080-9cfe93e4-463e-4668-9e15-846f8b215bae.png)
+- Buat histogram dengan n = 10, 100, 1000, dan 10000
+
+### C.
+![5 C](https://user-images.githubusercontent.com/94432967/162614103-f378f583-a79c-4d80-9818-d14e4b915a7c.png)
+- Kita dapat mencari rata - rata dan varian sesuai rumus.
+
+
 
 
 
