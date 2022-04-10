@@ -84,7 +84,18 @@
 ![5 C](https://user-images.githubusercontent.com/94432967/162614103-f378f583-a79c-4d80-9818-d14e4b915a7c.png)
 - Kita dapat mencari rata - rata dan varian sesuai rumus.
 
+## No 6
+### A.
+![6 A 2](https://user-images.githubusercontent.com/94432967/162616084-09d41dc2-df1a-4dfe-b434-6b15de5c9389.png)
+- Dapatkan nilai x dari 0 sampai 100 dengan jarak 0,1
+- Cari distribusi normal setiap x dan tampilkan plotnya
+![6 A 1](https://user-images.githubusercontent.com/94432967/162616191-3f5f4e9b-f669-4c5b-8c3f-918a22a3195c.png)
+- Cari nilai Z untuk setiap x sesuai dengan rumus
 
+### B.
+![6 B](https://user-images.githubusercontent.com/94432967/162616224-156a8c7b-b29a-45bc-9a13-3196196c39ed.png)
+- Cari distribusi normal sebanyak 100 data menggunakan rnorm dan tampilkan histogramnya
 
-
-
+### C.
+![6 C](https://user-images.githubusercontent.com/94432967/162616269-0fcad04a-38e2-453a-bc05-7415247a4c4d.png)
+- Kita dapat mencari varian sesuai rumus.
